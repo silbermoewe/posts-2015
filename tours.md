@@ -1,12 +1,15 @@
 ---
 title: Tours
 date: 1439069272000
-km:
+km: 1510
 fbImage: IMG_9287
 backgroundImage: tours.jpg
 css:
   color: "#fff"
   text-shadow: 0 0 5px rgba(0, 0, 0, .8)
+guests:
+  - Basi
+  - Marlon
 
 ---
 
@@ -19,7 +22,7 @@ Für diesen kleinen Stellplatz entscheiden wir uns, da es diesen Tag nicht mehr 
 
 ---en---
 
-Tee decision for this caravan side was made because we started way to late to make it to *San Sebastián* today and plus it looked rainy all the way down. We buy some sausage, vegetables and Pastis and have a nice evening barbecueing.
+The decision for this caravan side was made because we started way to late to make it to *San Sebastián* today plus it looked rainy all the way down. We buy some sausage, vegetables and Pastis and have a nice evening barbecueing.
 
 ![](IMG_9287)
 ![](IMG_9291)
