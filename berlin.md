@@ -28,7 +28,7 @@ Wir sind dann doch erst gegen 18 Uhr los, gegen Halbzwölf in Hamburg und halbzw
 
 ![](IMG_9256)
 
-The plan is to start in Berlin at 4pm, be in Hmaburg 7pm to pick up a coat Timur forgot there and than arrive in Bremen at 9pm.
+The plan is to start in Berlin at 4pm, be in Hamburg 7pm to pick up a coat Timur forgot there and than arrive in Bremen at 9pm.
 
 ![](IMG_9258)
 
