@@ -12,7 +12,7 @@ guests:
   - Marlon
 ---
 
-Wir schaffen es, sehr früh in Bremen los zu kommen und gegen neun in Berlin zu sein. Wir parken beim *Château de Vincennes* und machen uns mit der U-Bahn auf zu Alexandre. Er hat angeboten, dass wir bei ihm nächtigen. Er empfängt uns herzlich in seiner elterlichen Wohnung. Sie ist zwischen erstem und zweitem Arradisment im obersten Stockwerk und gefüllt mit Flügeln und Orgeln und schönen Möbeln. Wir trinken ein paar absurd teure Spätibiere auf der Dachterrasse. Alle Sehenswürdigkeiten sind von hier zu sehen und so können wir nächsten Morgen wieder fahren und trotzdem alles gesehen haben.
+Wir schaffen es, sehr früh in Bremen los zu kommen und gegen neun in Paris zu sein. Wir parken beim *Château de Vincennes* und machen uns mit der U-Bahn auf zu Alexandre. Er hat angeboten, dass wir bei ihm nächtigen. Er empfängt uns herzlich in seiner elterlichen Wohnung. Sie ist zwischen erstem und zweitem Arradisment im obersten Stockwerk und gefüllt mit Flügeln und Orgeln und schönen Möbeln. Wir trinken ein paar absurd teure Spätibiere auf der Dachterrasse. Alle Sehenswürdigkeiten sind von hier zu sehen und so können wir nächsten Morgen wieder fahren und trotzdem alles gesehen haben.
 
 ![](IMG_9263)
 ![](IMG_9266)
