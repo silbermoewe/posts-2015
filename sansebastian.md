@@ -35,7 +35,7 @@ Die Stadt ist hübsch wie im Bilderbuch, es ist sauber, es gibt schöne Fassaden
 ![](IMG_9467)
 ![](IMG_9323)
 
-Da *Gran Semana* ist, ist es ist sehr voll und dauert lang, doch es schmeckt gut. Wir kaufen Bier beim Späti, *Bocadillo* in einem kleinen Lädchen, durchschwimmen das Menschenmeer durch die Altstadt zum Strand und sinken in den Sand. Das Feuerwerk beeindruckt visuell und akustisch.
+Da *Gran Semana* ist, ist es ist sehr voll. Das Bestellen in der Bar, zu der Basi uns leitet dauert lang, doch es schmeckt gut. Danach kaufen wir Bier beim Späti, *Bocadillo* in einem kleinen Lädchen, durchschwimmen das Menschenmeer durch die Altstadt zum Strand und sinken in den Sand. Das Feuerwerk beeindruckt visuell und akustisch.
 
 ![](DSC01130)
 ![](IMG_9330)
