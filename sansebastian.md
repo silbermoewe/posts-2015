@@ -15,7 +15,7 @@ guests:
 
 ![](DSC01070)
 
-Basi verweilte hier vor kurzem mit Martina und hängt durch seine Schwärmereien die ganze Fahrt hierher die Erwartungen hoch. Wir machen bei der Uni einen Stellplatz aus, der sich als äußerst beliebt herausstellt; eine gigantische Ansammlung weißer, riesiger Camper wartet schon auf uns. Wir machen uns auf zum Strand und in die Altstadt um Tapas zu essen. Der Hunger zehrt an uns, wir essen was kleines an der ersten bar nach dem Parkplatz, doch wir halten aus bis Basi uns zur besten Lokalität der Stadt leitet.
+Basi verweilte hier vor kurzem mit Martina und hängt durch seine Schwärmereien die ganze Fahrt hierher die Erwartungen hoch. Wir machen bei der Uni einen Stellplatz aus, der sich als äußerst beliebt herausstellt; eine gigantische Ansammlung weißer, riesiger Camper wartet schon auf uns. Wir machen uns auf zum Strand und in die Altstadt um Tapas zu essen. Der Hunger zehrt an uns, wir essen was kleines an der ersten Bar nach dem Parkplatz, doch wir halten aus bis Basi uns zur besten Lokalität der Stadt leitet.
 
 ![](DSC01052)
 ![](DSC01053)
@@ -75,7 +75,7 @@ Basi was talking about *San Sebastián* the whole way since Bremen so in our hea
 ![](DSC01074)
 ![](IMG_9301)
 
-The city is very clean, most of the people around are either old or children. But still those are also present in the eventing in the bars.
+The city is very clean, most of the people around are either old or children. But still those are also present in the evening in the bars.
 
 ![](IMG_9299)
 ![](DSC01077)
