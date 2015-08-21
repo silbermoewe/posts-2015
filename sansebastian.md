@@ -8,7 +8,7 @@ css:
   color: "#"
   text-shadow: 0 0 10px rgba(255, 255, 255, 1)
 guests:
-  - Sebowsi
+  - Basauri
   - Marlon
 
 ---
