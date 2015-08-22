@@ -1,5 +1,5 @@
 ---
-title: Vitoria Gasteiz
+title: Vitoria-Gasteiz
 date: 1439324533000
 km: 150970
 fbImage: DSC01172
@@ -17,7 +17,7 @@ guests:
 
 Vitoria ist auf unserer Route gelandet, weil wir Sebastians Bruder Robert und seine Familie  besuchen möchten. Robert arbeitet hier in einer Fabrik, die Boxen baut in denen Audi und Mercedes ihre Autos in Einzelteilen nach Lateinamerika exportieren um Zoll zu sparen. Die Familie wohnt in einem kleinen Dorf in einem Haus mit schöner Aussicht.
 
-Seit einiger Zeit schon haben wir das Gefühl, dass unser rechtes Hinterrad unrund läuft. Wir sind sogar schon deswegen von der Autobahn gefahren, und von außen geschaut, aber sicher sind wir uns nicht. Robert kennt sich mit Autos mehr aus als wir – sein Auto steht mit offenem Motor in der Garage. Wir versuchen, die Silbermöwe mit unserm Wagenheber hoch zu heben und merken, dass dieser unserm Auto nicht gewachsen ist. Zum Glück hat Robert robustere im Haus. Der Reifen ist tatsächlich gut ausgebeult und wir beschließen, ihn gleich morgen tauschen zu lassen. Doch zunächst wird im Garten gegrillt und Bier getrunken.
+Seit einiger Zeit schon haben wir das Gefühl, dass unser rechtes Hinterrad unrund läuft. Wir sind sogar schon deswegen von der Autobahn gefahren, und haben von außen geschaut, aber sicher sind wir uns nicht. Robert kennt sich mit Autos mehr aus als wir – sein Auto steht mit offenem Motor in der Garage. Wir versuchen, die Silbermöwe mit unserm Wagenheber hoch zu heben und merken, dass dieser unserm Auto nicht gewachsen ist. Zum Glück hat Robert robustere im Haus. Der Reifen ist tatsächlich gut ausgebeult und wir beschließen, ihn gleich morgen tauschen zu lassen. Doch zunächst wird im Garten gegrillt und Bier getrunken.
 
 ![](DSC01175)
 ![](DSC01177)
@@ -45,9 +45,9 @@ Am nächsten Tag dauert es noch bis zum Nachmittag, bis unsere Reifen da sind. W
 
 ![](DSC01172)
 
-We put Vitoria on the route because we wanted to visit Sebastains brother Robert and his family. He is working in a factory making boxes in which car manufacturers like Audi and Mercedes ship their cars in parts to get them assembled in Latin America to save taxes. The family is living in a large house in a small village with a nice view.
+We put Vitoria on the route because we wanted to visit Sebastian’s brother Robert and his family. He is working in a factory making boxes in which car manufacturers like Audi and Mercedes ship their cars in parts to get them assembled in Latin America to save taxes. The family is living in a large house in a small village with a nice view.
 
-For some time now we feel like our tire or the wheel in the back right side is running not evenly. We do not how to diagnose it properly but Robert knows better about cars than we do. He helps us to get the tire off the car and the tire looks really uneven. We decide to let it be switched for a new tire tomorrow. But first we do some barbecue and drink beer in the sunset.
+For some time now we feel like our tire or the wheel on the back right side is running not evenly. We do not how to diagnose it properly but thankfully Robert knows more about cars than we do. He helps us to get the tire off the car and the tire looks really uneven. We decide to let it be switched for a new tire tomorrow. But first we do some barbecue and drink beer in the sunset.
 
 ![](DSC01175)
 ![](DSC01177)
@@ -56,7 +56,7 @@ For some time now we feel like our tire or the wheel in the back right side is r
 ![](IMG_9556)
 ![](IMG_9559)
 
-Two friends of Robert help us to find a tire shop. Unfortunately, our tires have such exotic dimensions that they have to be ordered so we are forced to stay one more day in the region although we planned to start to Bilbao today already. Roberts friends invite us to some *Churros Con Chocolate* and we drive to a lake nearby that we they recommend. We have a bath there and then drive to the city Vitoria Gasteiz. It turns out not to be a problem to find a place to park and sleep in the night. The tram takes us into the old city and the evening turns out to be a nice unplanned stop. We have some beers and tapas at different places and walk home.
+Two friends of Robert help us to find a tire shop. Unfortunately, our tires have such exotic dimensions that they have to be ordered so we are forced to stay one more day in the region although we planned to start to Bilbao today already. Roberts friends invite us to some *Churros Con Chocolate* and we drive to a lake nearby that they recommend. We have a bath there and then drive to the city Vitoria-Gasteiz. It turns out not to be a problem to find a place to park and sleep in the night. The tram takes us into the old city and the evening turns out to be a nice unplanned stop. We have some beers and tapas at different places and walk home.
 
 ![](DSC01195)
 ![](DSC01200)
