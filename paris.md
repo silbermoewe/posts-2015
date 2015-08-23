@@ -12,7 +12,7 @@ guests:
   - Marlon
 ---
 
-Wir schaffen es, sehr früh in Bremen los zu kommen und gegen neun in Paris zu sein. Wir parken beim *Château de Vincennes* und machen uns mit der U-Bahn auf zu Alexandre. Er hat angeboten, dass wir bei ihm nächtigen. Er empfängt uns herzlich in seiner elterlichen Wohnung. Sie ist zwischen erstem und zweitem Arradisment im obersten Stockwerk und gefüllt mit Flügeln und Orgeln und schönen Möbeln. Wir trinken ein paar absurd teure Spätibiere auf der Dachterrasse. Alle Sehenswürdigkeiten sind von hier zu sehen und so können wir nächsten Morgen wieder fahren und trotzdem alles gesehen haben.
+Wir schaffen es, sehr früh in Bremen los zu kommen und gegen neun in Paris zu sein. Wir parken beim *Château de Vincennes* und machen uns mit der U-Bahn auf zu Alexandre. Er hat angeboten, dass wir bei ihm nächtigen. Er empfängt uns herzlich in seiner elterlichen Wohnung. Sie ist zwischen erstem und zweitem Arrondissement im obersten Stockwerk und gefüllt mit Flügeln und Orgeln und schönen Möbeln. Wir trinken ein paar absurd teure Spätibiere auf der Dachterrasse. Alle Sehenswürdigkeiten sind von hier zu sehen und so können wir nächsten Morgen wieder fahren und trotzdem alles gesehen haben.
 
 ![](IMG_9263)
 ![](IMG_9266)
@@ -31,7 +31,7 @@ Wir schaffen es, sehr früh in Bremen los zu kommen und gegen neun in Paris zu s
 
 ---en---
 
-We successfully start early in Bremen. We arrive in Paris at about nine in the evening and park the car next to *Château de Vincennes*. Alexandre offered to host us so we take the underground to the flat of his parents between 1st and 2nd arrodisment. The flat is spacious at the top floor and filled with gran pianos and an organ. We go up to the roof terrace which features a view of all touristic highlights of Paris and drink some beer.
+We successfully start early in Bremen. We arrive in Paris at about nine in the evening and park the car next to *Château de Vincennes*. Alexandre offered to host us so we take the underground to the flat of his parents between 1st and 2nd arrondissement. The flat is spacious at the top floor and filled with gran pianos and an organ. We go up to the roof terrace which features a view of all touristic highlights of Paris and drink some beer.
 
 ![](IMG_9263)
 ![](IMG_9266)
