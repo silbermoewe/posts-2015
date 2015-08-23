@@ -53,7 +53,7 @@ In the evening we arrive at a place at the edge of the city where we can leave t
 ![](DSC01212)
 ![](DSC01229)
 
-It's easy to spot a bar were we get tapas and beer. Not far there is a small alley where the hip people meet and we join them. Mojita is *en oferta*, we take some of those.
+It's easy to spot a bar where we get tapas and beer. Not far there is a small alley where the hip people meet and we join them. Mojito is *en oferta*, we take some of those.
 
 ![](DSC01235)
 ![](DSC01242)
