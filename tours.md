@@ -22,7 +22,7 @@ Für diesen kleinen Stellplatz entscheiden wir uns, da es diesen Tag nicht mehr 
 
 ---en---
 
-The decision for this caravan side was made because we started way to late to make it to *San Sebastián* today plus it looked rainy all the way down. We buy some sausage, vegetables and Pastis and have a nice evening barbecueing.
+The decision for this caravan side was made because we started way to late to make it to *San Sebastián* today plus it looked rainy all the way down. We buy some sausage, vegetables and Pastis and have a nice evening barbecuing.
 
 ![](IMG_9287)
 ![](IMG_9291)
