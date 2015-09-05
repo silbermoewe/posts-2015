@@ -6,7 +6,7 @@ fbImage: DSC01388
 backgroundImage: gijon.jpg
 css:
   color: #2A282D
-  text-shadow: 0 0 0 rgba(0, 0, 0, 0)
+  text-shadow: 0 0 5px rgb(173, 201, 215)
 backgroundCss:
   background-position: bottom center
 
