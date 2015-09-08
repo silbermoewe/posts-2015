@@ -1,7 +1,7 @@
 ---
 title: Gijon
 date: 1439816873000
-km:
+km: 151419
 fbImage: DSC01388
 backgroundImage: gijon.jpg
 css:
