@@ -7,7 +7,7 @@ backgroundImage: picos.jpg
 css:
   color: "white"
   text-shadow: 0 0 0 rgba(0, 0, 0, 0)
-Guests:
+guests:
   - Basi
   - Marlon
 
