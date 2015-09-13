@@ -30,7 +30,7 @@ Zwei Freundinnen von Robert helfen uns, mehrere Reifenhändler abzuklappern, doc
 
 ![](DSC01195)
 ![](DSC01200)
-![](DSC01206)	
+![](DSC01206)
 ![](IMG_9573)
 ![](IMG_9579)
 ![](DSC01208)
