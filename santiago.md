@@ -7,6 +7,9 @@ backgroundImage: santiago.jpg
 css:
   color: "#"
   text-shadow: 0 0 0 rgba(0, 0, 0, 0)
+guests:
+  - Basolomeo
+  - Marlon
 
 ---
 
