@@ -3,7 +3,7 @@ title: Praia Esteiro de Bares
 date: 1439922186000
 km: 151629
 fbImage: DSC01398
-backgroundImage: playade.jpg
+backgroundImage: praiaesteiro.jpg
 css:
   color: "#F1F1E5"
   text-shadow: 0 0 5px rgba(0, 0, 0, .8)
