@@ -1,5 +1,5 @@
 ---
-title: Santiago
+title: Santiago de Compostela
 date: 1440099068000
 km: 151788
 fbImage: IMG_9949
@@ -41,11 +41,10 @@ Wir übernachten auf einem teuren, kahlen Parkplatz und machen uns auf nach *Por
 
 ---en---
 
-
 ![](IMG_9951)
 ![](IMG_9949)
 
-Santiago is dominated by it’s huge cathedral and is fate as a pilgrim city. A lot of catholics hike to this place to pray and confess in all languages of the world. The inner church is huge and goldplated.
+Santiago is dominated by its huge cathedral and its fate as a pilgrim city. A lot of catholics hike to this place to pray and confess in all languages of the world. The inner church is huge and gold-plated.
 
 ![](IMG_9956)
 ![](IMG_9960)
@@ -61,7 +60,7 @@ Santiago is dominated by it’s huge cathedral and is fate as a pilgrim city. A 
 ![](IMG_9996)
 ![](IMG_9998)
 
-Later in the evening we find some nice bars. In Santiago one gets a lot of tapas with the beer for free so that at some point, we have to stop drinking just because we can not eat anything anymore. 
+Later in the evening we find some nice bars. In Santiago one gets a lot of tapas with the beer for free so that at some point we have to stop drinking – just because we cannot eat anything anymore. 
 
 ![](IMG_9999)
 ![](DSC01449)
