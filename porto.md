@@ -30,11 +30,13 @@ Unsere Wohnung hat eine Waschmaschine, die theoretisch auch ein Trockner ist. Fu
 
 ![](IMG_0098)
 ![](IMG_0102)
+![](IMG_0055)
+![](DSC01466)
 
 Portos Altstadt ist schön. Ein Teil des Charms rührt daher, dass es einerseits noch bewohnt wird und andererseits verfällt. Die meisten Fassaden sind mit Fliesen dekoriert. Mit Beginn der Demokratie in den siebziger Jahren gab es einen Wirtschaftsboom mit vielen neuen, großen Häusern vor der Stadt; viele zogen das Leben dort vor – in der Altstadt sind viele Häuser nur mit viel Fußweg und Treppen zu erreichen, die Wohnungen sind eng.
 
 ![](IMG_0115-HDR)
-![](IMG_0116)
+![](IMG_0110)
 ![](IMG_0136)
 ![](IMG_0180)
 ![](IMG_0184-HDR)
@@ -42,10 +44,10 @@ Portos Altstadt ist schön. Ein Teil des Charms rührt daher, dass es einerseits
 
 Am zweiten Abend essen wir im selben Restaurant, es ist wieder toll. Am nächsten Tag kommt Evelyn dazu. Auch mit ihr ziehen wir noch einmal durch die Stadt, bevor wir weiterfahren, auf der Suche nach Strand.
 
-![](IMG_0207)
-![](IMG_0218)
 ![](IMG_0219)
 ![](IMG_0220)
+![](IMG_0207)
+![](IMG_0218)
 
 ---en---
 
@@ -70,11 +72,13 @@ Our flat has a washing machine that is also capable of drying – in theory. It
 
 ![](IMG_0098)
 ![](IMG_0102)
+![](IMG_0055)
+![](DSC01466)
 
 Portos old city is beautiful. A lot of old houses, some with people actually living in and some abandoned. Most of them decorated with painted tiles. The old houses started to be abandoned when the economy boomed in the seventies and the people moved to new shiny multi story houses made of concrete and with a parking lot beneath. The old city does not feature a lot of parking space and the majority of flats is only accessible by foot and stairs.
 
 ![](IMG_0115-HDR)
-![](IMG_0116)
+![](IMG_0110)
 ![](IMG_0136)
 ![](IMG_0180)
 ![](IMG_0184-HDR)
@@ -82,6 +86,8 @@ Portos old city is beautiful. A lot of old houses, some with people actually liv
 
 On the second day we eat at *Rei dos Galos de Amarante* again and again it is great. The chef recognizes us and we get served even faster. On the last day Evelyn joins. Again we stroll through the city and then leave to search for the beaches of Portugal.
 
+![](IMG_0206)
+![](DSC01502)
 ![](IMG_0207)
 ![](IMG_0218)
 ![](IMG_0219)
