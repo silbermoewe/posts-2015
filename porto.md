@@ -5,8 +5,8 @@ km: 152071
 fbImage: IMG_0016-HDR
 backgroundImage: porto.jpg
 css:
-  color: "#C9CDD8"
-  text-shadow: 0 0 0 rgba(0, 0, 0, 0)
+  color: "#D7DAE2"
+  text-shadow: 0 0 5px rgb(5, 15, 40)
 
 ---
 
