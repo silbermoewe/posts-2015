@@ -12,7 +12,7 @@ guests:
 
 ---
 
-Hierher ließen wir uns ein weiteres Mal von *Furgoperfecto* leiten. Eine Halbinsel mit unendlichem Strand, roter Fahne – Badeverbot. Der Ort besteht aus zumeist verlassenen Ferienwohnungen und versprüht einen morbiden Charm. Wir nehmen gleich am nächsten Tag die Fähre und suchen ein schöneres Plätzchen.
+Hierher ließen wir uns ein weiteres Mal von *Furgoperfecto* leiten. Eine Halbinsel mit unendlichem Strand, roter Fahne – Badeverbot. Der Ort besteht aus zumeist verlassenen Ferienwohnungen und versprüht einen morbiden Charme. Wir nehmen gleich am nächsten Tag die Fähre und suchen ein schöneres Plätzchen.
 
 ![](DSC01528)
 ![](IMG_0230)
@@ -21,7 +21,7 @@ Hierher ließen wir uns ein weiteres Mal von *Furgoperfecto* leiten. Eine Halbin
 
 ---en---
 
-Again we let *Furgoperfecto* lead us to a place to sleep right behind the dunes. A penincula with an endless beach. Unfortunately, the red flag is up and so we can not take a bath. The village consists of mostly empty holiday houses. We eat some fish and the next day we take a small ferry with our car and drive to *Coimbre*.
+Again we let *Furgoperfecto* lead us to a place to sleep right behind the dunes. A peninsula with an endless beach. Unfortunately, the red flag is up and so we cannot take a bath. The village consists of mostly empty holiday houses. We eat some fish and the next day we take a small ferry with our car and drive to *Coimbra*.
 
 ![](DSC01528)
 ![](IMG_0230)
