@@ -1,5 +1,5 @@
 ---
-title: Lissabon
+title: Lisboa
 date: 1440779399000
 km: 152575
 fbImage: DSC01607
@@ -90,13 +90,13 @@ Rund vier Stunden später taucht ein kleiner Abschleppwagen auf. Nachdem der Fah
 ![](DSC01718)
 ![](DSC01725)
 ![](DSC01734)
-
-Timur fährt mit dem Mechaniker mit, Kolja, Caro und Wiebke nehmen die Verfolgung mit einem Taxifahrer auf. Der wiederrum hat großen Spaß an der Fahrt, als er versteht, dass er unserem Wagen folgen soll.
-
 ![](DSC01736)
+
+Timur fährt mit dem Mechaniker mit, Kolja, Caro und Wiebke nehmen die Verfolgung mit einem Taxifahrer auf. Der Mechaniker ist konzentriert. Er fragt, ob er sich eine Zigarette anzünden darf und merkt an: «It's a hell of a ride». Der Taxifahrer wiederrum macht sich einen Spaß aus der Fahrt, als er versteht, dass er unserem Wagen folgen soll. Bei jeder Brückenunterquerung zuckt er kurz zusammen, als wollte er uns bedeuten, dass die Möwe nur sehr knapp drunter gepasst hätte.
+
 ![](DSC01738)
 
-Bei jeder Brückenunterquerung zuckt er kurz zusammen, als wollte er uns bedeuten, dass die Möwe nur sehr knapp drunter gepasst hätte. Die erste Werkstatt lehnt uns ab, alle Mechaniker sind im Urlaub.
+Die erste Werkstatt lehnt uns ab, alle Mechaniker sind im Urlaub.
 
 ![](DSC01745)
 
