@@ -1,17 +1,16 @@
 ---
-title: Praja Da Ursa
+title: Praia Da Ursa
 date: 1440695512000
 km: 152495
 fbImage: 08-27-17-11-IMG_0357
-backgroundImage: prajadaursa.jpg
+backgroundImage: praiadaursa.jpg
 backgroundCss:
-    background-position: bottom center
+  background-position: bottom center
 css:
   color: "#"
   text-shadow: 0 0 5px rgba(255, 255, 255, .3)
 guests:
   - Evelyn
-
 ---
 
 ![](08-27-17-11-IMG_0357)
